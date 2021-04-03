@@ -1,0 +1,272 @@
+/* Colors and Fonts */
+
+h1,h2,h3{color:#456268}
+   h1,h2,h3{ font-family:'Playfair Display', serif;
+    font-size: 20px ;
+    font-weight:400;
+    font-style: italic;
+}
+h1:hover {
+  color: #79a3b1;
+  text-decoration: none;
+}
+h2:hover {
+  color: #79a3b1;
+  text-decoration: none;
+}
+h3:hover {
+  color: #79a3b1;
+  text-decoration: none;
+}
+h1{font-size: 30px; center;
+}
+
+
+body{
+    background-color:#fcf8ec;
+	color:#1d1d1f;
+	display: block;
+    margin: 20px;
+    text-align:center;
+}
+p {  color:#1d1d1f;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+} 
+a {
+  color: #456268;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: #79a3b1;
+  text-decoration: none;
+}
+h4{ font-family: 'Raleway', sans-serif;
+    font-size: 16px ;
+    font-weight:300;
+    }
+h4:hover { color:gray;
+  text-decoration: none;
+
+}
+.name {font-family: 'Playfair Display', serif;
+    font-size: 60px ;
+    font-weight:300;
+font-style:normal;
+color: rgb (30, 31, 30)
+;}
+
+
+
+}
+
+.container {width:700px;height: 40px auto}
+
+.Title { display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width:200px;
+		border-radius: 50%;
+		font-style: oblique;}
+
+
+
+.profilepic{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		height: 170px;
+		width:150px;
+		border-radius: 50%;}
+
+ .Header{ padding:30px;
+    margin
+    :20px;
+    box-shadow: 0px 5px 20px rgb(237 236 232);
+    background-color:white;
+    width:650px;
+    border-radius:4px;
+    box-shadow: 2px rgba(0, 0, 0, 0.05);
+    border-bottom:3px solid rgba(0,0,0,0.1);
+    position: top;
+  	padding-top: 2em;
+ 	margin-top: 0px;
+ 	margin-left: auto;
+	margin-right: auto;}
+ 	
+ 	.About{ padding:30px;
+    margin
+    :20px;
+    box-shadow: 0px 5px 20px rgb(237 236 232);
+    background-color:white;
+    width:650px;
+    border-radius:4px;
+    box-shadow: 2px rgba(0, 0, 0, 0.05);
+    border-bottom:3px solid rgba(0,0,0,0.1);
+    position: top;
+  	padding-top: 2em;
+ 	margin-top: 0px;
+ 	margin-left: auto;
+	margin-right: auto;
+	margin-right: auto;}
+
+	.Interests{padding:30px;
+    margin
+    :20px;
+    box-shadow: 0px 5px 20px rgb(237 236 232);
+    background-color:white;
+    width:650px;
+    border-radius:4px;
+    box-shadow: 2px rgba(0, 0, 0, 0.05);
+    border-bottom:3px solid rgba(0,0,0,0.1);
+    position: top;
+  	padding-top: 2em;
+ 	margin-top: 0px;
+ 	margin-left: auto;
+	margin-right: auto;}
+
+	.ProfessionalExperience{ padding:30px;
+    margin
+    :20px;
+    box-shadow: 0px 5px 20px rgb(237 236 232);
+    background-color:white;
+    width:650px;
+    border-radius:4px;
+    box-shadow: 2px rgba(0, 0, 0, 0.05);
+    border-bottom:3px solid rgba(0,0,0,0.1);
+    position: top;
+  	padding-top: 2em;
+ 	margin-top: 0px;
+ 	margin-left: auto;
+	margin-right: auto;}
+
+.GetInTouch {padding:30px;
+    margin
+    :20px;
+    box-shadow: 0px 5px 20px rgb(237 236 232);
+    background-color:white;
+    width:650px;
+    border-radius:4px;
+    box-shadow: 2px rgba(0, 0, 0, 0.05);
+    border-bottom:3px solid rgba(0,0,0,0.1);
+    position: top;
+  	padding-top: 2em;
+ 	margin-top: 0px;
+ 	margin-left: auto;
+	margin-right: auto;}
+
+	.listinline {list-style: none;padding-left: 0px
+	}
+	.listinline li {display: inline;}
+	.listinline i {font-size: 50px;letter-spacing: 20px}
+
+ 	
+ 	.Services {padding:30px;
+    margin
+    :20px;
+    box-shadow: 0px 5px 20px rgb(237 236 232);
+    background-color:white;
+    width:650px;
+    border-radius:4px;
+    box-shadow: 2px rgba(0, 0, 0, 0.05);
+    border-bottom:3px solid rgba(0,0,0,0.1);
+    position: top;
+  	padding-top: 2em;
+ 	margin-top: 0px;
+ 	margin-left: auto;
+	margin-right: auto;}
+
+	.Service.items{color:#1d1d1f;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+
+	.Portfolio{padding:30px;
+    margin
+    :20px;
+    box-shadow: 0px 5px 20px rgb(237 236 232);
+    background-color:white;
+    width:650px;
+    border-radius:4px;
+    box-shadow: 2px rgba(0, 0, 0, 0.05);
+    border-bottom:3px solid rgba(0,0,0,0.1);
+    position: top;
+  	padding-top: 2em;
+ 	margin-top: 0px;
+ 	margin-left: auto;
+	margin-right: auto;}
+
+	.Contact {padding:30px;
+    margin
+    :20px;
+    box-shadow: 0px 5px 20px rgb(237 236 232);
+    background-color:white;
+    width:650px;
+    border-radius:4px;
+    box-shadow: 2px rgba(0, 0, 0, 0.05);
+    border-bottom:3px solid rgba(0,0,0,0.1);
+    position: top;
+    margin-left: auto;
+	margin-right: auto;}
+
+
+	.GetInTouch {padding:30px;
+    margin
+    :20px;
+    box-shadow: 0px 5px 20px rgb(237 236 232);
+    background-color:white;
+    width:650px;
+    border-radius:4px;
+    box-shadow: 2px rgba(0, 0, 0, 0.05);
+    border-bottom:3px solid rgba(0,0,0,0.1);
+    position: top;
+  	padding-top: 2em;
+ 	margin-top: 0px;
+ 	margin-left: auto;
+	margin-right: auto;}
+
+.instagramfeed {padding:30px;
+    margin
+    :20px;
+    box-shadow: 0px 5px 20px rgb(237 236 232);
+    background-color:white;
+    width:650px;
+    border-radius:4px;
+    box-shadow: 2px rgba(0, 0, 0, 0.05);
+    border-bottom:3px solid rgba(0,0,0,0.1);
+    position: top;
+  	padding-top: 2em;
+ 	margin-top: 0px;
+ 	margin-left: auto;
+	margin-right: auto;}
+
+
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
+
+
+
+
+
